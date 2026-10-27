@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aderflugboogoo.site/sitemap-index.xml
